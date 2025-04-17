@@ -5,6 +5,7 @@
 - [Preparacion de los datos](#preparacion-de-los-datos)
 - [Análisis de datos](#análisis-de-datos)
 - [Sugerencias](#sugerencias)
+- [Power Bi](#sugerencias)
 
 ### Resumen del proyecto
 
@@ -221,7 +222,14 @@ ORDER BY sort_order;
 1. Optimizar la estrategia de descuentos. No recurrir a descuentos tan altos puesto que genera perdida.
 2. Aprovechar el exito del segmento Consumer. Al ser el segmento mas rentable recomiendo poner enfasis sobre el mismo.
 3. Fortalecer presencia en California dada la rentabilidad en este estado.
-4. Replantear la estrategia del negocio en el estado de Ohio.
+4. Replantear la estrategia del negocio en el estado de Ohio
+   
+## Power Bi
+
+Para hacer mostrar de manera grafica el estado del negocio hice un dashboard en Power Bi, en donde se puede ver los mejores porductos en cuanto a ventas, evolucion de ventas y ganancias, las ganancias por estado, el desempeño por categorias de productos y de otros KPI tales como margen de ventas, dias promedio en realizar el envio, ganancias totales y ventas. Todo esto junto con slicers para poder filtrar por region, estado y año.
+
+-[Dashboard](./Superstore.pdf)
+
    
 
 
