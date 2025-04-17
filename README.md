@@ -8,7 +8,7 @@
 
 ### Resumen del proyecto
 
-En este primer proyecto utilice la base de datos Superstore proveniente de Kaggle para realizar un analisis exploratorio. Utilizando herramientas como SQL y Power Bi respondi preguntas de interes para comprender mejor las fortalezas debilidades y estado general del negocio.
+En este primer proyecto utilice la base de datos Superstore proveniente de Kaggle para realizar un analisis exploratorio. Utilizando herramientas como SQL y Power Bi respondí preguntas de interés para comprender mejor las fortalezas debilidades y estado general del negocio.
 
 ### Fuente de Datos
 
