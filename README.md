@@ -210,7 +210,7 @@ ORDER BY sort_order;
 ```
 ### Resultados
 
-1. El producto mas vendido de la compania es "Canon imageCLASS 2200 Advanced Copier".
+1. El producto mas vendido de la compañia es "Canon imageCLASS 2200 Advanced Copier".
 2. El estado en el cual se obtienen mas ganancias es en California con 61344.75 USD y el peor estado en cuanto a ganancias es Ohio con peridas de -5043.46.
 3. El mes con mayor ganancia en promedio fue marzo, mientras que el mes con peores ganancias promedio fue abril.
 4. El segmento de clientes que mas ganancias genero fue el de Consumer y el que menos genero fue el de Home Office.
