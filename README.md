@@ -5,7 +5,7 @@
 - [Preparacion de los datos](#preparacion-de-los-datos)
 - [Análisis de datos](#análisis-de-datos)
 - [Sugerencias](#sugerencias)
-- [Power Bi](#sugerencias)
+- [Power Bi](#power-bi)
 
 ### Resumen del proyecto
 
@@ -13,7 +13,8 @@ En este primer proyecto utilice la base de datos Superstore proveniente de Kaggl
 
 ### Fuente de Datos
 
-"Sample - Superstore.csv" el cual se puede obtener [aqui](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final).
+"Sample - Superstore.csv" el cual se puede obtener aqui:
+- [📂 Sample - Superstore.csv](./Sample%20-%20Superstore.csv): Dataset original en formato CSV.
 
 ### Herramientas
 
@@ -226,10 +227,12 @@ ORDER BY sort_order;
    
 ## Power Bi
 
-Para hacer mostrar de manera grafica el estado del negocio hice un dashboard en Power Bi, en donde se puede ver los mejores porductos en cuanto a ventas, evolucion de ventas y ganancias, las ganancias por estado, el desempeño por categorias de productos y de otros KPI tales como margen de ventas, dias promedio en realizar el envio, ganancias totales y ventas. Todo esto junto con slicers para poder filtrar por region, estado y año.
+Para representar gráficamente el estado del negocio, desarrollé un dashboard interactivo en Power BI. En él se pueden visualizar los productos con mayores ventas, la evolución de las ventas y ganancias a lo largo del tiempo, y las ganancias por estado. Además, se analiza el desempeño por categoría de productos y se incluyen KPIs clave como: Margen de ventas, días promedio en realizar el envío, ganancias totales y ventas totales
 
--[Dashboard](./Superstore.pdf)
+El dashboard también incorpora slicers que permiten filtrar fácilmente la información por región, estado y año, brindando una visión más dinámica y personalizada del negocio.
 
+- [📄 Dashboard](./Superstore.pdf) : Archico pdf para visualizacion.
+- [📊 Superstore.pbix](./Superstore.pbix): Archivo de Power BI para edición.
    
 
 
