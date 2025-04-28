@@ -14,7 +14,7 @@ En este primer proyecto utilice la base de datos Superstore proveniente de Kaggl
 ### Fuente de Datos
 
 "Sample - Superstore.csv" el cual se puede obtener aqui:
-- [📂 Sample - Superstore.csv](./Sample%20-%20Superstore.csv): Dataset original en formato CSV.
+- [📂 Sample - Superstore.csv](./Sample%20-%20Superstore.csv): Dataset original en formato CSV. 
 
 ### Herramientas
 
@@ -231,7 +231,7 @@ Para representar gráficamente el estado del negocio, desarrollé un dashboard i
 
 El dashboard también incorpora slicers que permiten filtrar fácilmente la información por región, estado y año, brindando una visión más dinámica y personalizada del negocio.
 
-- [📄 Dashboard](./Superstore.pdf) : Archico pdf para visualizacion.
+- [📄 Dashboard](./Superstore.pdf) : Archivo pdf para visualizacion.
 - [📊 Superstore.pbix](./Superstore.pbix): Archivo de Power BI para edición.
    
 
